@@ -1,0 +1,14 @@
+C:\Users\Lauri\Desktop\Uusi kansio (2)\JenkinsTest\bin\Debug\net9.0\JenkinsTest.exe
+C:\Users\Lauri\Desktop\Uusi kansio (2)\JenkinsTest\bin\Debug\net9.0\JenkinsTest.deps.json
+C:\Users\Lauri\Desktop\Uusi kansio (2)\JenkinsTest\bin\Debug\net9.0\JenkinsTest.runtimeconfig.json
+C:\Users\Lauri\Desktop\Uusi kansio (2)\JenkinsTest\bin\Debug\net9.0\JenkinsTest.dll
+C:\Users\Lauri\Desktop\Uusi kansio (2)\JenkinsTest\bin\Debug\net9.0\JenkinsTest.pdb
+C:\Users\Lauri\Desktop\Uusi kansio (2)\JenkinsTest\obj\Debug\net9.0\JenkinsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lauri\Desktop\Uusi kansio (2)\JenkinsTest\obj\Debug\net9.0\JenkinsTest.AssemblyInfoInputs.cache
+C:\Users\Lauri\Desktop\Uusi kansio (2)\JenkinsTest\obj\Debug\net9.0\JenkinsTest.AssemblyInfo.cs
+C:\Users\Lauri\Desktop\Uusi kansio (2)\JenkinsTest\obj\Debug\net9.0\JenkinsTest.csproj.CoreCompileInputs.cache
+C:\Users\Lauri\Desktop\Uusi kansio (2)\JenkinsTest\obj\Debug\net9.0\JenkinsTest.dll
+C:\Users\Lauri\Desktop\Uusi kansio (2)\JenkinsTest\obj\Debug\net9.0\refint\JenkinsTest.dll
+C:\Users\Lauri\Desktop\Uusi kansio (2)\JenkinsTest\obj\Debug\net9.0\JenkinsTest.pdb
+C:\Users\Lauri\Desktop\Uusi kansio (2)\JenkinsTest\obj\Debug\net9.0\JenkinsTest.genruntimeconfig.cache
+C:\Users\Lauri\Desktop\Uusi kansio (2)\JenkinsTest\obj\Debug\net9.0\ref\JenkinsTest.dll
