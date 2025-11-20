@@ -3,15 +3,15 @@ pipeline {
 
     stages {
 		stage('Restore') {
-			steps { sh 'cd JenkinsTest && dotnet restore JenkinsTest.sln' }
+			steps { sh 'dotnet restore JenkinsTest.sln' }
 		}
 
 		stage('Build') {
-			steps { sh 'cd JenkinsTest && dotnet build JenkinsTest.sln --configuration Release' }
+			steps { sh 'dotnet build JenkinsTest.sln --configuration Release' }
 		}
 
 		stage('Run') {
-			steps { sh 'cd JenkinsTest && dotnet run --project JenkinsTest.csproj' }
+			steps { sh 'dotnet run --project JenkinsTest.csproj' }
 		}
     }
 }
